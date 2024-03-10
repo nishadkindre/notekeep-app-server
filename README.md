@@ -21,7 +21,7 @@ Server for Note Keep App
 Installation
 
 ```bash
-git clone https://github.com/your-username/notes-app-server.git
+git clone https://github.com/nishadkindre/notekeep-app-server.git
 ```
 
 Install dependenices

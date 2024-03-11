@@ -18,9 +18,6 @@ mongoose
   .then(() => console.log("Connected to MongoDB..."))
   .catch((err) => console.log(err));
 
-app.use("/", (req, res) => {
-  res.json({ message: "Hello User" });
-});
 app.use("/api/auth", authRoutes);
 app.use("/api/admin", adminRoutes);
 app.use("/api/notes", noteRoutes);

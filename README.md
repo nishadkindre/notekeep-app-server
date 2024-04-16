@@ -4,10 +4,10 @@ Server for Note Keep App
 
 ## Features
 
-- **User Authentication:**
-- **Authorization:**
-- **CRUD Operations:**
-- **Admin Panel:**
+- **User Authentication**
+- **Authorization**
+- **CRUD Operations**
+- **Admin Panel**
 
 ## Tech Stack
 
